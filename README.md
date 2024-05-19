@@ -27,9 +27,9 @@
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/uniabhi1717/End-to-End-chest-cancer-classification-using-Mlflow-cloud.mlflow \
-MLFLOW_TRACKING_USERNAME=uniabhi1717 \
-MLFLOW_TRACKING_PASSWORD=0fd1c079192867e1c15e2df5eece34f649b231da \
+MLFLOW_TRACKING_URI=https://dagshub.com/Abskkr04/End-to-End-chest-cancer-classification-using-Mlflow-cloud-1.mlflow \
+MLFLOW_TRACKING_USERNAME=Abskkr04 \
+MLFLOW_TRACKING_PASSWORD=654d0a9cf1f58badc02d90329b52a5d6fc1b80b6 \
 python script.py
 
 
@@ -37,11 +37,11 @@ Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/uniabhi1717/End-to-End-chest-cancer-classification-using-Mlflow-cloud.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/Abskkr04/End-to-End-chest-cancer-classification-using-Mlflow-cloud-1.mlflow
 
-export MLFLOW_TRACKING_USERNAME=uniabhi1717
+export MLFLOW_TRACKING_USERNAME=Abskkr04
 
-export MLFLOW_TRACKING_PASSWORD=0fd1c079192867e1c15e2df5eece34f649b231da
+export MLFLOW_TRACKING_PASSWORD=654d0a9cf1f58badc02d90329b52a5d6fc1b80b6
 
 ```
 
@@ -104,7 +104,7 @@ DVC
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/chicken
+    - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/abskkr
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
