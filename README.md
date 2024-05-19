@@ -21,17 +21,15 @@
 
 - [Documentation](https://mlflow.org/docs/latest/index.html)
 
-- [MLflow tutorial](https://youtube.com/playlist?list=PLkz_y24mlSJZrqiZ4_cLUiP0CBN5wFmTb&si=zEp_C8zLHt1DzWKK)
-
 ##### cmd
 - mlflow ui
 
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/uniabhi1717/End-to-End-chest-cancer-classification-using-Mlflow-cloud.mlflow \
-MLFLOW_TRACKING_USERNAME=uniabhi1717 \
-MLFLOW_TRACKING_PASSWORD=0fd1c079192867e1c15e2df5eece34f649b231da \
+MLFLOW_TRACKING_URI=https://dagshub.com/Abskkr04/End-to-End-chest-cancer-classification-using-Mlflow-cloud-1.mlflow \
+MLFLOW_TRACKING_USERNAME=Abskkr04 \
+MLFLOW_TRACKING_PASSWORD=654d0a9cf1f58badc02d90329b52a5d6fc1b80b6 \
 python script.py
 
 
@@ -39,11 +37,11 @@ Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/uniabhi1717/End-to-End-chest-cancer-classification-using-Mlflow-cloud.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/Abskkr04/End-to-End-chest-cancer-classification-using-Mlflow-cloud-1.mlflow
 
-export MLFLOW_TRACKING_USERNAME=uniabhi1717
+export MLFLOW_TRACKING_USERNAME=Abskkr04
 
-export MLFLOW_TRACKING_PASSWORD=0fd1c079192867e1c15e2df5eece34f649b231da
+export MLFLOW_TRACKING_PASSWORD=654d0a9cf1f58badc02d90329b52a5d6fc1b80b6
 
 ```
 
